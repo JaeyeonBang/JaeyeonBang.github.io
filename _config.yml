@@ -8,10 +8,6 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: ko-KR
 
-<<<<<<< HEAD
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
-=======
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Asia/Seoul
 
